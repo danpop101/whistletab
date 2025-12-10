@@ -1,9 +1,8 @@
 # Tin Whistle Tabs Generator
 
-A Next.js-based tool for generating tin whistle tabs quickly and easily, with a customizable interface using ChakraUI. This generator allows you to input musical notes and instantly visualize the corresponding tin whistle tabs. 
+A Next.js-based tool for generating tin whistle tabs quickly and easily, with a customizable interface using ChakraUI. This generator allows you to input musical notes and instantly visualize the corresponding tin whistle tabs.
 
 <img width="1705" alt="Screenshot 2024-10-07 at 13 45 29" src="https://github.com/user-attachments/assets/1cbcad6e-8646-40af-a246-bb918c2a6a97">
-
 
 ## Features
 
@@ -23,21 +22,25 @@ A Next.js-based tool for generating tin whistle tabs quickly and easily, with a 
 To get started with the project locally, follow these steps:
 
 1. **Clone the repository:**
+
    ```bash
-   git clone https://github.com/RichiePowell/tin-whistle-tabs-generator.git
+   git clone https://github.com/danpop101/whistletab.git
    ```
 
 2. **Navigate to the project directory:**
+
    ```bash
    cd tin-whistle-tabs-generator
    ```
 
 3. **Install the dependencies:**
+
    ```bash
    npm install
    ```
 
 4. **Run the development server:**
+
    ```bash
    npm run dev
    ```
